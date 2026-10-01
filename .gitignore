@@ -1,0 +1,16 @@
+# 의존성
+node_modules/
+
+# 환경 변수 및 인증 정보 (개인정보 보호 필수)
+.env
+.env.local
+session/
+
+# 생성물 및 다운로드 캐시
+강의노트/
+downloads/
+*.log
+
+# OS 메타데이터
+.DS_Store
+Thumbs.db
